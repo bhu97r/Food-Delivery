@@ -1,0 +1,61 @@
+{
+    "categories": [{
+        "title": "Offers",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c1.png"
+      },
+      {
+        "title": "Burgers",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c2.png"
+      },
+      {
+        "title": "Chicken",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c3.png"
+      },
+      {
+        "title": "Pizza",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c4.png"
+      },
+      {
+        "title": "Asian",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c5.png"
+      },
+      {
+        "title": "Italian",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c6.png"
+      },
+      {
+        "title": "Dessert",
+        "img": "https://devdactic.fra1.digitaloceanspaces.com/foodui/c7.png"
+      }
+    ],
+    "highlights": [{
+        "img": "https://res.cloudinary.com/simplotel/image/upload/x_-1,y_64,w_961,h_961,r_0,c_crop,q_80,fl_progressive/w_400,f_auto,c_fit/wonderla-amusement-parks-resort/Bengaluru_1"
+      },
+      {
+        "img": "https://lh3.googleusercontent.com/JNEOMQlToOw1h3cUrjC7BJHh50RiAQhBw-mWtOeZtwU8WPGC_sCdzwGgG7AeuVKahXgyE6GGcf_4hWDToEsm5oxbCA=w512"
+      },
+      {
+        "img": "https://www.hotel17miles.com/wp-content/uploads/2018/01/26196349_2250342064991775_8324759096024522081_n-400x400.jpg"
+      },
+      {
+        "img": "https://res.cloudinary.com/simplotel/image/upload/x_0,y_141,w_3700,h_3700,r_0,c_crop,q_80,fl_progressive/w_400,f_auto,c_fit/jp-hotel-chennai/JP_Hotel_in_Chennai_Seabreeze_cqzxy1"
+      }
+    ],
+    "featured": [
+        {
+          "name": "Pizza Hut",
+          "rating": "4.5 Excellent",
+          "ratings": "(500+)",
+          "distance": "1.7 Kilometers away",
+          "img": "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/10/17/pizza.jpg"
+        },
+        {
+            "name": "✨Roti Ghar✨",
+            "id": "2",
+            "rating": "4.8 Excellent",
+            "ratings": "(500+)",
+            "distance": "3.2 Kilometers away",
+            "img": "https://img-global.cpcdn.com/recipes/40ffcb4eddd7df9d/1200x630cq70/photo.jpg"
+        }
+    ]
+  }
